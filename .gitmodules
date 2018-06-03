@@ -28,9 +28,6 @@
 [submodule "libraries/Kaleidoscope-Hardware-Model01"]
 	path = libraries/Kaleidoscope-Hardware-Model01
 	url = https://github.com/keyboardio/Kaleidoscope-Hardware-Model01
-[submodule "libraries/Kaleidoscope-Model01-TestMode"]
-	path = libraries/Kaleidoscope-Model01-TestMode
-	url = https://github.com/keyboardio/Kaleidoscope-Model01-TestMode
 [submodule "libraries/Kaleidoscope"]
 	path = libraries/Kaleidoscope
 	url = https://github.com/keyboardio/Kaleidoscope
